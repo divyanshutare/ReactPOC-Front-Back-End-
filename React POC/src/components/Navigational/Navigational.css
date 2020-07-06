@@ -1,0 +1,14 @@
+.navigational, a{
+    color : black;
+    padding: 50px;
+    display: inline-flexbox;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.active{
+    color: aqua;
+}
+
